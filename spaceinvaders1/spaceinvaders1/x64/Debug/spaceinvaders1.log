@@ -1,0 +1,18 @@
+﻿  Cannon.cpp
+C:\Users\analu\OneDrive\Documents\EEIC\2 Ano\1Semestre\ATC 1\projeto\spaceinvaders1\spaceinvaders1\Cannon.cpp(44,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\analu\OneDrive\Documents\EEIC\2 Ano\1Semestre\ATC 1\projeto\spaceinvaders1\spaceinvaders1\Cannon.cpp(44,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\analu\OneDrive\Documents\EEIC\2 Ano\1Semestre\ATC 1\projeto\spaceinvaders1\spaceinvaders1\Cannon.cpp(50,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\analu\OneDrive\Documents\EEIC\2 Ano\1Semestre\ATC 1\projeto\spaceinvaders1\spaceinvaders1\Cannon.cpp(50,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CannonUI.cpp
+C:\Users\analu\OneDrive\Documents\EEIC\2 Ano\1Semestre\ATC 1\projeto\spaceinvaders1\spaceinvaders1\CannonUI.cpp(18,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\analu\OneDrive\Documents\EEIC\2 Ano\1Semestre\ATC 1\projeto\spaceinvaders1\spaceinvaders1\CannonUI.cpp(18,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Defenses.cpp
+C:\Users\analu\OneDrive\Documents\EEIC\2 Ano\1Semestre\ATC 1\projeto\spaceinvaders1\spaceinvaders1\Defenses.cpp(20,67): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\analu\OneDrive\Documents\EEIC\2 Ano\1Semestre\ATC 1\projeto\spaceinvaders1\spaceinvaders1\Defenses.cpp(20,38): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  main.cpp
+C:\Users\analu\OneDrive\Documents\EEIC\2 Ano\1Semestre\ATC 1\projeto\spaceinvaders1\spaceinvaders1\main.cpp(16,26): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\analu\OneDrive\Documents\EEIC\2 Ano\1Semestre\ATC 1\projeto\spaceinvaders1\spaceinvaders1\main.cpp(16,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\analu\OneDrive\Documents\EEIC\2 Ano\1Semestre\ATC 1\projeto\spaceinvaders1\spaceinvaders1\main.cpp(16,28): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\analu\OneDrive\Documents\EEIC\2 Ano\1Semestre\ATC 1\projeto\spaceinvaders1\spaceinvaders1\main.cpp(16,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  spaceinvaders1.vcxproj -> C:\Users\analu\OneDrive\Documents\EEIC\2 Ano\1Semestre\ATC 1\projeto\spaceinvaders1\x64\Debug\spaceinvaders1.exe
